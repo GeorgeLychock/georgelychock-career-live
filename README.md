@@ -1,5 +1,4 @@
 ## georgelychock-career.com
-### My User Centric Frontend Development Milestone Project
 
 <h1 align="center">George Lychock Career Website</h1>
 
@@ -163,6 +162,10 @@ This is the main career website for George Lychock. It contains all the job, edu
     *   Apply minor column structure to desktop view for Skills and Work History pages
     *   Update profile picture
     *   Add a Soft Skills progress bar section to Skills page
+
+    *   #### Backlog 01/21
+        *   Change desktopn Home Profile section text color; change GitHub link color
+        
 
 ## Approved Features and Initial Release Strategy
 
