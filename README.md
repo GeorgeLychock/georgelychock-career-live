@@ -165,7 +165,7 @@ This is the main career website for George Lychock. It contains all the job, edu
 
     *   #### Backlog 01/21
         *   Change desktopn Home Profile section text color; change GitHub link color
-        
+
 
 ## Approved Features and Initial Release Strategy
 
