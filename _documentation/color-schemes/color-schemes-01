@@ -1,0 +1,32 @@
+#4dd2ff  light blue nav text
+#ffaa00 gold resume button
+#cc8800
+
+whitesmoke nav titles
+
+#fff
+.gl-home-profile-heading
+.gl-hero-title
+
+
+
+#ffaa00
+.btn--red
+gl-home-profile-content2 a
+.gl-home-creds-link
+.gl-navbar a:hover
+
+
+#4dd2ff
+.gl-navbar a
+
+@media only screen and (min-width: 767px)
+.gl-nav-icon
+
+
+
+whitewmoke
+@media only screen and (min-width: 767px)
+.gl-nav-icon-item a
+
+gl-home-profile-content
