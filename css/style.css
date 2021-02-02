@@ -42,6 +42,20 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', 'FreeSans', sans-serif;
 }
 
+/* Common Text Colors: Allows me to change colors globally for all main heads, sections, and links */
+/*header colors*/
+.hcolor-1
+.hcolor-2
+/*nav colors */
+.ncolor-1
+.ncolor-2
+/* main text colors */
+.pcolor-1
+.pcolor-2
+/* link colors */
+.acolor-1
+.acolor-2
+
 /* Common */
 .uppercase {
     text-transform: uppercase;
