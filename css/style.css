@@ -44,17 +44,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Common Text Colors: Allows me to change colors globally for all main heads, sections, and links */
 /*header colors*/
-.hcolor-1
-.hcolor-2
+.hcolor-1 {}
+.hcolor-2 {}
 /*nav colors */
-.ncolor-1
-.ncolor-2
+.ncolor-1 {color:#4dd2ff;}
+.ncolor-2 {}
 /* main text colors */
-.pcolor-1
-.pcolor-2
+.pcolor-1 {}
+.pcolor-2 {}
 /* link colors */
-.acolor-1
-.acolor-2
+.acolor-1 {}
+.acolor-2 {}
 
 /* Common */
 .uppercase {
@@ -131,28 +131,27 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-navbar a {
     padding: 3px 6px 3px 9px;
-    color: wheat;
     text-decoration: none;
     background-color: #666;
     margin-top: 20px;
 }
 
 .gl-navbar a:hover {
-    color: #69f;
+    color: #fa0;
 }
 
-.btn--red {
+.btn--resume {
     color: white;
-    background-color: #f05f40;
-    border-color: #f05f40;
+    background-color: #fa0;
+    border-color: #fa0;
 }
 
-.btn--red:hover,
-.btn--red:active,
-.btn--red:focus,
-.btn--red:active:focus {
-    background-color: #df4929;
-    border-color: #df4929;
+.btn--resume:hover,
+.btn--resume:active,
+.btn--resume:focus,
+.btn--resume:active:focus {
+    background-color: #e69900;
+    border-color: #e69900;
     color: white;
 }
 
