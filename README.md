@@ -52,7 +52,11 @@ This is the main career website for George Lychock. It contains all the job, edu
                 2.  The Desktop Home page should offer more initial information on site content and offer a more robust nav that will not be displayed on the mobile view Home
                 3.  Use at least one advanced Bootstrap components on the site.
 
--   ### Design
+-   ### Design V2
+    -   #### Colour Scheme
+        -   Changing the type colors across the site to a lighblue/gold format. Created global text color css rules and updated html to more easily update global colors.
+
+-   ### Design V1
     -   #### Colour Scheme
         -   The color scheme is dictated by the hero image color profile. The image is an original photo taken by myself at a machine shop class in 2018. The final color scheme will have to be iterated over to the R2 release given time contraints. The desire is to ultimately have a brighter/whiter color scheme.
     -   #### Typography
