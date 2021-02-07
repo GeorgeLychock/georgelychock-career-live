@@ -4,6 +4,8 @@
 
 [View the live project here.](https://georgelychock.github.io/georgelychock-career/)
 
+Version 2.0 Notes: Started 1/29/21. Reviewing CSS for efficiency; adding global text color styles and markup to make changing global colors more efficient.
+
 This is the main career website for George Lychock. It contains all the job, education, and professional development information for George Lychock. This site replaces my Bootstrap3 site that currently exists at www.georgelychock-career.com. I used a hybrid of the existing content, learned modules from the CI lesson plan, and other resources I have found along the way, but all the code is completely new and any 'borrowed or sampled' code is documented below and in html files.
 
 -   ## User Experience (UX)
@@ -53,11 +55,11 @@ This is the main career website for George Lychock. It contains all the job, edu
                 3.  Use at least one advanced Bootstrap components on the site.
 
 -   ### Design V2
-    -   #### Colour Scheme
+    -   #### Color Scheme
         -   Changing the type colors across the site to a lighblue/gold format. Created global text color css rules and updated html to more easily update global colors.
 
 -   ### Design V1
-    -   #### Colour Scheme
+    -   #### Color Scheme
         -   The color scheme is dictated by the hero image color profile. The image is an original photo taken by myself at a machine shop class in 2018. The final color scheme will have to be iterated over to the R2 release given time contraints. The desire is to ultimately have a brighter/whiter color scheme.
     -   #### Typography
         -   Two Google fonts, Montserrat is used for headings and titles, Raleway is used for all running text and nav items.
