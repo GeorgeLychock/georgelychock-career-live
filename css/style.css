@@ -42,19 +42,20 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', 'FreeSans', sans-serif;
 }
 
-/* Common Text Colors: Allows me to change colors globally for all main heads, sections, and links */
+/* Common Text Colors: Allows me to change colors globally for all main heads, sections, and links. All :hover text colors are defined at the specific selector style further below */
 /*header colors*/
-.hcolor-1 {}
-.hcolor-2 {}
+.hcolor-1 {color:#fff;}
+.hcolor-2 {color:whitesmoke;}
 /*nav colors */
 .ncolor-1 {color:#4dd2ff;}
 .ncolor-2 {}
 /* main text colors */
-.pcolor-1 {}
+.pcolor-1 {color:whitesmoke;}
 .pcolor-2 {}
 /* link colors */
-.acolor-1 {}
-.acolor-2 {}
+.acolor-1 {color:whitesmoke;}
+.acolor-2 {color:#fa0;}
+.acolor-3 {color:#4dd2ff;}
 
 /* Common */
 .uppercase {
@@ -169,6 +170,7 @@ h1, h2, h3, h4, h5, h6 {
 .gl-pdf-icon {
     display: inline;
     margin-left: 6px;
+    margin-right: 5px;
     color: #fff;
 }
 
@@ -178,15 +180,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-profile-icon {
     color: whitesmoke;
+    margin-left: 5px;
 }
 
 .gl-banner-col {
     margin: 0;
     text-decoration: none;
-}
-
-.gl-banner-col a {
-    color: whitesmoke;
 }
 
 .gl-banner-heading {
@@ -227,7 +226,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-hero-title{
     text-align: center;
-    color: wheat;
     padding-top: 15%;
 }
 
@@ -238,8 +236,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Nav Icon - Home */
 .gl-nav-icon-row {
-    margin-top: 1rem;
-    margin-bottom: 15%;
+    margin-top: 50px;
     padding-bottom: 10px;
 }
 
@@ -263,8 +260,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-nav-icon {
     margin-top: 20px;
-    font-size: 1.25rem;
-    color: wheat;
+    font-size: 1.50rem;
 }
 
 /* Nav Icon - Secondary Page */
@@ -483,18 +479,16 @@ h1, h2, h3, h4, h5, h6 {
 .gl-home-profile-content, .gl-home-profile-content2 {
     padding-top: 20px;
     padding-left: 20px;
-    color: wheat;
     text-align: left;
 }
 
 .gl-home-profile-content a {
     text-decoration: none;
-    color: whitesmoke;
 }
 
 .gl-home-profile-content a:hover {
     text-decoration: none;
-    color: #69f;
+    color: #4dd2ff;
 }
 
 .gl-home-profile-content2 {
@@ -504,12 +498,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-home-profile-content2 a {
     text-decoration: none;
-    color: #f05f40;
 }
 
 .gl-home-profile-content2 a:hover {
     text-decoration: none;
-    color: #69f;
+    color: #4dd2ff;
 }
 
 .gl-home-profile-address {
@@ -518,7 +511,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-home-profile-heading {
     padding-top: 40px;
-    color: whitesmoke;
 }
 
 .gl-home-profile-img img {
@@ -562,7 +554,7 @@ h1, h2, h3, h4, h5, h6 {
 .gl-home-creds-link {
     font-size: .75rem;
     text-decoration: none;
-    color: #f05f40;
+    font-weight: 700;
 }
 
 .gl-home-creds-modal-link a {
@@ -629,14 +621,12 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .gl-nav-icon-item a {
-        color: #fff;
         font-size: 1.25rem;
     }
 
     .gl-nav-icon {
         margin-top: 20px;
         font-size: 2rem;
-        color: wheat;
     }
 
     .gl-content-wrapper2 {
