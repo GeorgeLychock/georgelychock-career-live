@@ -48,7 +48,8 @@ h1, h2, h3, h4, h5, h6 {
 .hcolor-2 {color:whitesmoke;}
 /*nav colors */
 .ncolor-1 {color:#4dd2ff;}
-.ncolor-2 {}
+.ncolor-2 {color:#fff;}
+.ncolor-3 {color:#fa0;}
 /* main text colors */
 .pcolor-1 {color:whitesmoke;}
 .pcolor-2 {}
@@ -74,6 +75,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .float-right {
     float: right;
+}
+
+.no-txt-dec {
+    text-decoration: none;
 }
 
 .gl-content-wrapper {
@@ -189,10 +194,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .gl-banner-heading {
-    font-size: .75rem;
-    padding: 10px;
-    width: 100%;
-    color: #fff;
+    padding: 10px 0;
+    margin-left: 10px;
+    text-align: center;
 }
 
 .gl-download {
@@ -206,15 +210,9 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom: 20px;
 }
 
-.gl-download-2 a {
-    text-decoration: none;
-    color: #df4929;
-}
-
 .gl-home-icon {
-    color: #9cf;
     margin-left: 6px;
-    padding: 5px 10px;
+    padding: 10px 0;
 }
 
 /* Hero */
@@ -270,18 +268,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .gl-icon-row-p2 {
-    background-color: #d9d9d9;
+    background-color: #333;
     text-align: center;
 }
 
 .gl-nav-icon-p2 {
     font-size: .75rem;
-    color: #000;
 }
 
 .gl-nav-icon-name-p2 {
     font-size: .75rem;
-    color: wheat;
 }
 
 /* Content Area - Secondary Pages */
