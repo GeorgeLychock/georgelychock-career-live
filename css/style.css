@@ -59,6 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 .acolor-3 {color:#4dd2ff;}
 
 /* Common */
+/* Font Styles */
 .uppercase {
     text-transform: uppercase;
     font-family: 'Montserrat', 'FreeSans', sans-serif;
@@ -67,6 +68,10 @@ h1, h2, h3, h4, h5, h6 {
 .lowercase {
     text-transform: lowercase;
     font-family: 'Montserrat', 'FreeSans', sans-serif;
+}
+
+.font75 {
+    font-size: .75rem;
 }
 
 .text-center {
@@ -183,6 +188,12 @@ h1, h2, h3, h4, h5, h6 {
     padding-right: 10px;
 }
 
+.gl-banner-profile2 {
+    padding-right: 10px;
+    margin-left: auto;
+    padding-top: 10px;
+}
+
 .gl-profile-icon {
     color: whitesmoke;
     margin-left: 5px;
@@ -212,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-home-icon {
     margin-left: 6px;
-    padding: 10px 0;
+    padding: 15px 0;
 }
 
 /* Hero */
