@@ -107,6 +107,15 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 10px;
 }
 
+.gl-description a {
+    text-decoration: none;
+}
+
+.gl-description a:hover {
+    text-decoration: none;
+    color: #4dd2ff;
+}
+
 .gl-vp-master {
     background-color: #9cf;
     background: url("../images/hero-bridgewater-milling-machineshop-bw-2200w.jpg") no-repeat center center;
