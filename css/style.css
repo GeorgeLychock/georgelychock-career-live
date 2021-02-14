@@ -56,7 +56,9 @@ h1, h2, h3, h4, h5, h6 {
 /* link colors */
 .acolor-1 {color:whitesmoke;}
 .acolor-2 {color:#fa0;}
+.acolor-2-hover a:hover {color:#4dd2ff; text-decoration: none;}
 .acolor-3 {color:#4dd2ff;}
+
 
 /* Common */
 /* Font Styles */
