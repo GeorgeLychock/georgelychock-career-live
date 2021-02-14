@@ -217,7 +217,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-banner-heading {
     padding: 10px 0;
-    margin-left: 10px;
+    margin-left: 40px;
     text-align: center;
 }
 
@@ -394,7 +394,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .gl-profile-row {
     padding: 0;
-    padding-top: 20px;
+    padding-top: 100px;
 }
 
 .gl-profile-heading-row {
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .gl-profile-img img {
-    max-width: 300px;
+    max-width: 100px;
 }
 
 .gl-profiles {
@@ -700,6 +700,10 @@ h1, h2, h3, h4, h5, h6 {
 
     .gl-profile-heading-row {
         padding-top: 30px;
+    }
+
+    .gl-profile-img img {
+        max-width: 200px;
     }
 
     .gl-social-row {
