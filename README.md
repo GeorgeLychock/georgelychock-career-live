@@ -192,8 +192,9 @@ Release 1
 Release 2
 -   Updated Profile Page to site
 -   Updated profile picture of George
--   Method to show what I work on outside of my main career
+-   Method to show what I work on outside of my main career, add something about my patent
 -   Create an About Hero Image modal
+-   Add an Articles Page
 
 ## Technologies Used
 

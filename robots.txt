@@ -1,0 +1,3 @@
+Sitemap: http://www.georgelychock-career.com/george_lychock_career-sitemap.xml
+User-agent: googlebot
+Disallow: /pages/_sandbox/

@@ -1,0 +1,69 @@
+<!-- SHTML Wrapper - 404 Not Found -->
+<!--#exec cgi="/cgi-sys/fourohfour.cgi" -->
+<body>
+    <main>
+        <!-- Nav Section - Desktop/Tablet Only-->
+        <div class="container-fluid gl-navbar-wrapper">
+            <div class="row no-gutters d-none d-md-block">
+                <div class="col gl-navbar-col">
+                    <nav class="gl-navbar">
+                        <a class="ncolor-1" href="index.html">Return to George Lychock Career Home Page</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <!-- /Nav Section - Desktop/Tablet Only-->
+        <header>
+            <!-- Banner Area - Smartphone Only - Page Level 1 -->
+            <nav class="container-fluid">
+                <div class="row d-md-none no-gutters fixed-top gl-banner-row">
+                    <!-- Home Button -->
+                    <a class="ncolor-1" href="index.html">Return to George Lychock Career Home Page</a>
+                  
+                </div>
+            </nav>
+            <!-- /Banner Area - Smartphone Only - Page 1 -->
+        </header>
+        <!-- Content Area -->
+        <article>
+            <div class="container-fluid gl-content-wrapper">
+                <div class="row no-gutters gl-content-row2">
+                    <div class="col gl-content-1">
+                        <h4>Project Manager</h4>
+                        <h5>Houghton Mifflin Harcourt</h5>
+                        <h6>Boston, MA, USA</h6><span><b>06/2019 - 12/2019</b></span>
+                        <div>
+                            <p class="gl-description">As Project Manager, planned and managed all aspects of
+                                project objectives including scoping and budgeting. Project deliverables included print,
+                                static digital format (PDF, etc.),
+                                and structured content delivered on the HMH learning management system. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- /Content Area -->
+        <footer>
+            <nav class="row no-gutters gl-social-row">
+                <div class="col">
+                    <div class="gl-cr">
+                        <span>www.georgelychock-career.com | &copy; 2020</span>
+                        <p>This site is based on Bootstrap 4 &trade;</p>
+                    </div>
+                </div>
+            </nav>
+        </footer>
+    </main>
+
+    <!-- Load Bootstrap js and its dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"
+        integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s"
+        crossorigin="anonymous"></script>
+    <!-- /Load Bootstrap js and its dependencies -->
+</body>

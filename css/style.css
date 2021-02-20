@@ -254,6 +254,14 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
+.about-image {
+    margin-top: 50px;
+}
+
+.about-image button:hover{
+    color: whitesmoke;
+}
+
 /* Nav Icon - Home */
 .gl-nav-icon-row {
     margin-top: 25px;
@@ -603,6 +611,10 @@ h1, h2, h3, h4, h5, h6 {
     .gl-social-row {
         position: relative;
     }
+
+    .about-image {
+        margin-top: 250px;
+    }
 }
 
 @media only screen and (min-width: 767px) {
@@ -620,6 +632,10 @@ h1, h2, h3, h4, h5, h6 {
 
     .gl-hero-title p {
         font-size: 1.5rem;
+    }
+
+    .about-image {
+        margin-top: 150px;
     }
 
     .gl-nav-icon-row {
