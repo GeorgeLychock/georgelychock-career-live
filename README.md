@@ -2,7 +2,7 @@
 
 <h1 align="center">George Lychock Career Website</h1>
 
-[View the live project here.](https://georgelychock.github.io/georgelychock-career/)
+[View the live project here.](https://www.georgelychock-career.com/)
 
 Version 2.0 Notes: Started 1/29/21. Reviewing CSS for efficiency; adding global text color styles and markup to make changing global colors more efficient.
 
@@ -194,6 +194,7 @@ Release 2
 -   Updated profile picture of George
 -   Method to show what I work on outside of my main career, add something about my patent
 -   Create an About Hero Image modal
+-   Add an About this Site section on desktop home page
 -   Add an Articles Page
 
 ## Technologies Used
