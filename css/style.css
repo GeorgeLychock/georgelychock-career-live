@@ -21,6 +21,7 @@
 /* Home Profile Section */
 /* Home Credentials Section */
 /* Home Site Links Section */
+/* Home Patent Section */
 /* Home Social Links Section */
 /* Home Home Footer Section */
 /* @media */
@@ -593,6 +594,13 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
     background-color: #333;
     color: whitesmoke;
+}
+
+/* Home Patent Section */
+.gl-home-patent {
+    margin-left: 20px;
+    padding-left: 5px;
+    text-align: left;
 }
 
 /* Home Social Links Section */
